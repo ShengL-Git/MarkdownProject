@@ -2,6 +2,8 @@
 
 This project is made as homework for DAM Pt.2.1
 
+[Go to Git Documentation](https://git-scm.com/doc)
+
 ## Table of Contents
 
 1. [Introduction](#Introduction)
