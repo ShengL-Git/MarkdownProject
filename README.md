@@ -18,6 +18,12 @@ This project is made as homework for DAM Pt.2.1
 
 ## Features
 
+| Feature   | Description   | Status      |
+| --------- | ------------- | ----------- |
+| Feature 1 | Description 1 | In progress |
+| Feature 2 | Description 2 | In progress |
+| Feature 3 | Description 3 | Completed   |
+
 ## Installation
 
 ## Usage
