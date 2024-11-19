@@ -14,6 +14,8 @@ This project is made as homework for DAM Pt.2.1
 
 ## Introduction
 
+![Project Logo](images/logo.png)
+
 ## Features
 
 ## Installation
