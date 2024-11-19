@@ -16,6 +16,8 @@ This project is made as homework for DAM Pt.2.1
 
 ![Project Logo](images/logo.png)
 
+This is a edit to test git diff
+
 ## Features
 
 | Feature   | Description   | Status      |
