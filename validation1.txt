@@ -1,0 +1,90 @@
+commit 2a8b65272c2af5fdca8f2862c98db8270ced2e12
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 10:06:33 2024 +0100
+
+    Update Introduction of README.md
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 414ed8dc7c34b3a7a029a2b83f80f63970851d73
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:55:11 2024 +0100
+
+    Add MIT License in a new md file
+
+ LICENSE.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit e126681d58a8b534ba5ad6378c441c6647bdf2d7
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:49:06 2024 +0100
+
+    Enhance README with formatting
+
+ README.md | 18 ++++++++++++++++++
+ 1 file changed, 18 insertions(+)
+
+commit 2ad7b5bdc9a72d8ecb8be704672ebf4e458e9096
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:30:12 2024 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit b098c4e10463d27ca10966587bfbb9482ed56b5a
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:21:55 2024 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 14820 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 1acf8113a3e48190371e45da792c5a7d18eddf3b
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:14:00 2024 +0100
+
+    Add sections to README
+
+ README.md | 20 +++++++++++++++-----
+ 1 file changed, 15 insertions(+), 5 deletions(-)
+
+commit 90a46122b75b68cb89e0e7be94d25d3f72f1afd9
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 09:05:30 2024 +0100
+
+    Add hyperlinks to README
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 74e4b59058d7c829ebe9d7cb8610a41644e7d972
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 08:59:36 2024 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 4300d21147f817d73f3743b679d531512d065557
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 08:47:29 2024 +0100
+
+    Add README with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit 46a18996181d3201bde9ceca6b79125f43ba5177
+Author: Sheng <x7762979l@iespoblenou.org>
+Date:   Tue Nov 19 08:36:52 2024 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
